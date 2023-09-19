@@ -12,9 +12,9 @@ We are looking purely at your technical skill in this exercise. Subsequent inter
 
 When reviewing your project, we'll score it on:
 
-- How much of the task has been completed and how accurately it meets the brief (a following stage in the interview process requires a certain level of functionality)
+- How much of the task has been completed and how accurately it meets the brief. We will continue this project at a later stage of the interview process, so the functionality we've asked for needs to be present and work as intended
 - Approach and design patterns used to enable testing. We're looking for code to be written in a way to enable testability and a strong demonstration of how you would test at least one on your created classes/structs in full - the less trivial the better
-- Any bugs that are discovered
+- Any bugs we find in your code
 - SwiftUI usage
 - How clean, modular and extensible the code is
 - The applied architecture and how the code is structured
